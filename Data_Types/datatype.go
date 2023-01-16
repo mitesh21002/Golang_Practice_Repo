@@ -4,7 +4,7 @@ import (
 	"fmt"
 )
 
-// first init function will execute thrn main() function will execyte
+// first init function will execute then main() function will execute
 func init() {
 	fmt.Println("in init function")
 }
